@@ -1,4 +1,4 @@
-- Baydot Django App Start
+- Baydot Django App With React CoreUI
 
 ### Installation
 
