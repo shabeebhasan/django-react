@@ -1,0 +1,7 @@
+{% autoescape off %}
+To initiate the password reset process for your {{ username }} Account, %0A
+Enter below:
+Reset Code: {{ otp }}
+Sincerely,
+The Team
+{% endautoescape %}

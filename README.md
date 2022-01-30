@@ -1,0 +1,1 @@
+- Baydot Django App Start
